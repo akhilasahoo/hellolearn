@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Hello Bhai, Corona Lagi rakhi he kya ???.. Goli Maro usko.</h2>
-<img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com">
+<h2>HAPPY 5th BIRTH DAY AYAN, Love you </h2>
+<img src="IMG_2241.jpg" alt="Trulli" width="500" height="333">
 </body>
 </html>
